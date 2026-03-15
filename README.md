@@ -40,7 +40,7 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
-
+![img alt](https://github.com/manobalamanobala47-code/EXP-3/blob/main/Screenshot%202026-03-15%20182425.png)
 Tabulation:1:
 ![img alt](https://github.com/manobalamanobala47-code/EXP-3/blob/main/WhatsApp%20Image%202026-03-15%20at%206.46.39%20PM.jpeg)
 	
