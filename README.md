@@ -45,7 +45,7 @@ Tabulation:1:
 ![img alt](https://github.com/manobalamanobala47-code/EXP-3/blob/main/WhatsApp%20Image%202026-03-15%20at%206.46.39%20PM.jpeg)
 	
 Cross connection: CIRCUIT DIAGRAM:
-
+![img alt](https://github.com/manobalamanobala47-code/EXP-3/blob/main/Screenshot%202026-03-15%20182416.png)
 Tabulation:2
 ![img alt](https://github.com/manobalamanobala47-code/EXP-3/blob/main/WhatsApp%20Image%202026-03-15%20at%206.47.18%20PM.jpeg)
 RESULT:
